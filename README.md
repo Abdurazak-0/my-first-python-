@@ -1,1 +1,0 @@
-#Parking Garage Fee Calculator
